@@ -3,6 +3,10 @@ Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para Otimizar o Uso do Git
 
 Comandos do Git Bash e Link de Comandos Basicos
+ls >>> Lista 
+CTRL+L ou Clear >>> Limpa Tela 
+CD nome diretorio para entrar 
+CD .. Para sair do Diretorio
 
 Link comandos Basicos do Git Bash: https://medium.com/@andradegabriela20/o-que-%C3%A9-git-git-bash-e-comandos-b%C3%A1sicos-94a53de6d376
 
