@@ -1,0 +1,28 @@
+Link para download do Git: https://git-scm.com/downloads
+
+O Git Bash é um terminal extendido para Otimizar o Uso do Git
+
+Comandos do Git Bash e Link de Comandos Basicos
+
+Link comandos Basicos do Git Bash: https://medium.com/@andradegabriela20/o-que-%C3%A9-git-git-bash-e-comandos-b%C3%A1sicos-94a53de6d376
+
+Se você estiver com pressa, aqui está um resumo dos comandos e o que fazem:
+
+git init: inicializa um repositório local git
+git status: verifica o estado dos seus arquivos
+git add <nomeDoArquivo>: envia seu arquivo especificado para o Stage
+git add - -all: envia todos os arquivos para o Stage
+git commit -m “tituloDoCommit: envia o que está no Stage para o HEAD
+git remote add origin urlDoRepositorio: adiciona e indica a URL do repositório remoto em que os arquivos serão mantidos
+git push origin master: envia os arquivos para o repositório remoto que você especificou através da URL do comando acima
+git checkout -b <nomeDaBranch>: cria uma nova branch
+git checkout <nomeDaBranch>: alterna para a branch especificada
+
+
+1º git status para verificar
+
+2º git add . ou -A (para eviar ao staged) depois disso verificar com git status se ficou verde
+
+3º git commit -m "Comentario a Incluir ou Texto" (Isso Inclui apenas no Commit Local > falta fazer o Envio para nuvem
+
+4º git push origin main ( assim envia tudo para a nuvem )
